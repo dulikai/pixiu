@@ -1,0 +1,15 @@
+
+backup/
+
+*.chk
+*.log
+*.gjf
+*.fchk
+
+*.o
+*.mod
+
+*.dat
+
+bioparc
+
