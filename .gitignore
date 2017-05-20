@@ -3,6 +3,20 @@
 
 lib/
 tests/
+docs/
+
+basicUtils/
+QMD/
+TODO/
+
+__init__.py
+nSiteDyn.py
+bigPES.py
+
+piXiu/
+youYing/
+zhuZhao/
+
 
 # GAUSSIAN
 *.gjf
